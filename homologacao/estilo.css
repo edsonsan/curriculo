@@ -54,11 +54,8 @@ boby img{
     float: left;
     text-align: center;
     margin: 0em;
-<<<<<<< HEAD
-    width: 977px;
-=======
     width: 997px;
->>>>>>> homologacao
+
 }
 .navegacao ul{
     margin: 0em;
@@ -144,14 +141,11 @@ boby img{
     padding: 0.51em;
 }
 
-.sobre{
+ .sobre{
     background-color: rgb(207, 238, 243);
     height: 200px;
-<<<<<<< HEAD
-    width: 1150px;
-=======
     width: 1170px;
->>>>>>> homologacao
+
     margin: 0em auto ;
     padding: 1em 5em;
     padding-bottom: 7em;
@@ -181,11 +175,7 @@ boby img{
 .cursos{
     background-color: rgb(255, 255, 255);
     float: left;
-<<<<<<< HEAD
-    width: 550px;
-=======
-    width: 400px;
->>>>>>> homologacao
+    width: 480px;
     height: auto;
     margin: 0;
     margin-left: 2.5em;
@@ -214,7 +204,7 @@ boby img{
 .experiencia{
     background-color: rgb(255, 255, 255);
     float: right;
-    width: 800px;
+    width: 750px;
     left: auto;
     padding-left: 1em;
 }

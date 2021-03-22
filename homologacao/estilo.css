@@ -55,7 +55,7 @@ boby img{
     float: left;
     text-align: center;
     margin: 0em;
-    width: 1007px;
+    width: 977px;
 }
 .navegacao ul{
     margin: 0em;
@@ -144,7 +144,7 @@ boby img{
 .sobre{
     background-color: rgb(207, 238, 243);
     height: 200px;
-    width: 1200px;
+    width: 1150px;
     margin: 0em auto ;
     padding: 1em 5em;
     padding-bottom: 7em;
@@ -173,7 +173,7 @@ boby img{
 .cursos{
     background-color: rgb(255, 255, 255);
     float: left;
-    width: 600px;
+    width: 500px;
     height: auto;
     margin: 0;
     margin-left: 3.5em;
@@ -202,7 +202,7 @@ boby img{
 .experiencia{
     background-color: rgb(255, 255, 255);
     float: right;
-    width: 670px;
+    width: 660px;
     left: auto;
     padding-left: 1em;
 }

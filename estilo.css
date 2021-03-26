@@ -11,12 +11,11 @@ boby img{
 
 .principal{
     height: 700px;
-    width: 1310px;
+    width: 1330px;
     padding: 0em;
     margin: 0em auto;
     background-image:url(fundo-de-tecnologia-moderna-poligono_1035-17925.webp);
     background-size: 1017px 700px;
-
 }
 
 .centro{
@@ -33,7 +32,7 @@ boby img{
     font-size: 2em;
     letter-spacing: 0.3em;
     font-weight: 100;
-    margin-top: 8em;
+    margin-top: 7em;
     margin-bottom: 0em;
 }
 .centro h1{
@@ -55,7 +54,8 @@ boby img{
     float: left;
     text-align: center;
     margin: 0em;
-    width: 1007px;
+    width: 997px;
+
 }
 .navegacao ul{
     margin: 0em;
@@ -141,10 +141,11 @@ boby img{
     padding: 0.51em;
 }
 
-.sobre{
+ .sobre{
     background-color: rgb(207, 238, 243);
     height: 200px;
-    width: 1200px;
+    width: 1170px;
+
     margin: 0em auto ;
     padding: 1em 5em;
     padding-bottom: 7em;
@@ -155,6 +156,7 @@ boby img{
     font-family: 'Brawler', serif;
     font-style: italic;
     font-weight: 400;
+    margin-left: -0.55em;
 }
 .sobre p{
     clear: both;
@@ -165,7 +167,7 @@ boby img{
 }
 
 .formacao{
-    width: 1310px;
+    width: 1300px;
     height: auto;
     margin: 0em auto;
     padding: 0em 0em;
@@ -173,10 +175,10 @@ boby img{
 .cursos{
     background-color: rgb(255, 255, 255);
     float: left;
-    width: 600px;
+    width: 480px;
     height: auto;
     margin: 0;
-    margin-left: 3.5em;
+    margin-left: 2.5em;
 }
 .cursos h1{
     color: cornflowerblue;
@@ -202,7 +204,7 @@ boby img{
 .experiencia{
     background-color: rgb(255, 255, 255);
     float: right;
-    width: 670px;
+    width: 750px;
     left: auto;
     padding-left: 1em;
 }
@@ -226,6 +228,7 @@ boby img{
     font-family: 'Livvic', sans-serif;
     font-size:18px;
     font-weight:200;
+    text-align: justify;
 }
 
 .artigo3{

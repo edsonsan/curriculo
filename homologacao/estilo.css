@@ -172,6 +172,7 @@ boby img{
     margin: 0em auto;
     padding: 0em 0em;
 }
+
 .cursos{
     background-color: rgb(255, 255, 255);
     float: left;
@@ -195,11 +196,21 @@ boby img{
     padding: 0em;
     margin-top: -1em;
 }
+
+.cursos h2{
+	font-family: 'Livvic', cursive;
+	font-weight: 600;
+	font-size: 20px;
+	color: black;
+	margin-bottom: -0.6em;
+	padding: 0em;
+}
+
 .cursos p{
-    color: black;
-    font-family: 'Livvic', sans-serif;
-    font-size: 18px;
-    font-weight: 300;
+	color: black;
+	font-family: 'Livvic', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
 }
 .experiencia{
     background-color: rgb(255, 255, 255);
@@ -215,6 +226,16 @@ boby img{
     font-style: italic;
     font-weight: 400;
 }
+
+.experiencia h2{
+	font-family: 'Livvic', cursive;
+	font-weight: 600;
+	font-size: 20px;
+	color: black;
+	margin-bottom: -0.6em;
+	padding: 0em;
+}
+
 .experiencia h3{
     font-family: 'Gayathri', sans-serif;
     color: cornflowerblue;

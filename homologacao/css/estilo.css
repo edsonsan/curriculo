@@ -4,44 +4,44 @@ body{
     margin: 0em auto;
     background-color: white;
 }
-boby img{
+.body img{
     margin: 0em auto;
     display: flex;
 }
 
 .principal{
     height: 700px;
-    width: 1360px;
+    width: 1330px;
     padding: 0em;
     margin: 0em auto;
-    background-image:url(fundo-de-tecnologia-moderna-poligono_1035-17925.webp);
+    background-image:url("../fundo-de-tecnologia-moderna-poligono_1035-17925.webp");
     background-size: 1017px 700px;
 }
 
 .centro{
-    height: 400px;
-    width: 710px;
+    height: 700px;
+    width: 1000px;
     color: white;
     background-color: rgba(87, 87, 141, 0.642);
     margin: 0em;
-    padding: 14em;
+    padding: 9em;
     padding-bottom: 4.78em;
 }
-.centro h3 {
-    font-family: 'Gayathri', sans-serif;
-    font-size: 2em;
-    letter-spacing: 0.3em;
-    font-weight: 100;
-    margin-top: 8em;
-    margin-bottom: 0em;
-}
-.centro h1{
+.meuH3Centro {
+        font-family: 'Gayathri', sans-serif;
+        font-size: 2em;
+        letter-spacing: 0.3em;
+        font-weight: 100;
+        margin-top: 7em;
+        margin-bottom: 0em;
+    }
+.meuH1Centro {
     font-size: 4em;
     font-family: 'Baskervville', serif;
     font-weight: 200;
     margin: 0em;
 }
-.centro h5{
+.meuH5Centro {
     font-family: "Times New Roman";
     font-weight: lighter;
     font-size: 2em;
@@ -54,7 +54,8 @@ boby img{
     float: left;
     text-align: center;
     margin: 0em;
-    width: 1027px;
+    width: 997px;
+
 }
 .navegacao ul{
     margin: 0em;
@@ -90,41 +91,35 @@ boby img{
     padding: 0 auto;
     text-align: center;
     height: 700px;
-    width: 333px;   
+    width: 333px;
 }
-
 .avatar img{
     width: 150px;
     margin-top: 4em;
     margin-bottom: 0em;
 }
-
 .nome{
     margin: 0em;
     font-family: 'Baskervville', serif;
     font-size: 2.0em;
     font-style: normal;
 }
-
 .profissao{
     margin:0em;
     padding: 0em;
     font-family: 'Aubrey', cursive;
     font-size: 1.1em;
 }
-
 .contato{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1em;
     font-weight: 400;
-    margin-top: 6em;
+    margin-top: 4em;
     margin-bottom: 0em;
 }
-
 .redes img{
     margin: 0.5em 1em;
 }
-
 .baixar{
     height: 5em;
     width: 10em;
@@ -140,10 +135,11 @@ boby img{
     padding: 0.51em;
 }
 
-.sobre{
+ .sobre{
     background-color: rgb(207, 238, 243);
-    height: 200px;
-    width: 1200px;
+    height: 300px;
+    width: 1330px;
+
     margin: 0em auto ;
     padding: 1em 5em;
     padding-bottom: 7em;
@@ -154,17 +150,18 @@ boby img{
     font-family: 'Brawler', serif;
     font-style: italic;
     font-weight: 400;
+    margin-left: -0.55em;
 }
 .sobre p{
     clear: both;
     color: rgb(134, 134, 134);
     font-family: 'Livvic', sans-serif;
     font-size: 20px;
-    font-weight: 200;    
+    font-weight: 200;
 }
 
 .formacao{
-    width: 1360px;
+    width: 1330px;
     height: auto;
     margin: 0em auto;
     padding: 0em 0em;
@@ -172,66 +169,106 @@ boby img{
 .cursos{
     background-color: rgb(255, 255, 255);
     float: left;
-    width: 600px;
+    width: 480px;
     height: auto;
     margin: 0;
-    margin-left: 3.5em;
+    margin-left: 2.5em;
 }
-.cursos h1{
+.meuH1 {
     color: cornflowerblue;
     font-size: 36px;
     font-family: 'Brawler', serif;
     font-style: italic;
     font-weight: 400;
 }
-.cursos h3{
-    font-family: 'Gayathri', sans-serif;
+.meuH3 {
     color: cornflowerblue;
+    font-family: 'Gayathri', sans-serif;
+    font-size:18px;
     font-weight: 200;
     letter-spacing: 0.1em;
     padding: 0em;
-    margin-top: -1em;
+    margin-top: 0.7em;
 }
-.cursos p{
+.meuH2 {
+    color: cornflowerblue;
+    font-family: 'Gayathri', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    padding: 0em;
+    margin-top: 0.9em;
+    margin-bottom: -0.5em;
+}
+.cursos p {
     color: black;
     font-family: 'Livvic', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
 }
 .experiencia{
     background-color: rgb(255, 255, 255);
     float: right;
-    width: 670px;
+    width: 750px;
     left: auto;
     padding-left: 1em;
-}
-.experiencia h1{
-    color: cornflowerblue;
-    font-size: 36px;
-    font-family: 'Brawler', serif;
-    font-style: italic;
-    font-weight: 400;
-}
-.experiencia h3{
-    font-family: 'Gayathri', sans-serif;
-    color: cornflowerblue;
-    font-weight: 200;
-    letter-spacing: 0.1em;
-    padding: 0em;
-    margin-top: -1em;
+    padding-right:1em;
 }
 .experiencia p{
     color: black;
     font-family: 'Livvic', sans-serif;
-    font-size:18px;
+    font-size:16px;
     font-weight:200;
+    text-align: justify;
 }
 
-.artigo3{
-    clear: both;    
+.barraHorizontal{
+    clear: both;
     background-color: black;
+    margin-top: 25em;
+    margin-bottom: 1em;
 }
 
-footer{
+.competencias {
+    /*clear: both;*/
+    width: 1330px;
+    height: auto;
+    margin: 0em auto;
+    padding: 0em 0em;
+}
+.divCompetenciasTec {
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 400px;
+    height: auto;
+    margin: 0;
+    margin-left: 2.5em;
+    margin-right:2.5em;
+}
+.progress {
+    margin-bottom:10px;
+}
+
+.divCompetenciasAdm {
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 410px;
+    height: auto;
+    margin: 0;
+    margin-top:2.703em;
+    margin-left: 0em;
+    padding-left: 0em;
+}
+.divCompetenciasIdi {
+    background-color: rgb(255, 255, 255);
+    float: right;
+    width: 400px;
+    height: auto;
+    margin: 0;
+    margin-top: 2.703em;
+    margin-left: 2.5em;
+    padding-left: 10 
+}   
+.footer{
     clear: both;
 }

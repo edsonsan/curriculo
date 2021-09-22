@@ -93,9 +93,10 @@ body{
     height: 700px;
     width: 333px;
 }
+
 .avatar img{
     width: 150px;
-    margin-top: 4em;
+    margin-top: 5em;
     margin-bottom: 0em;
 }
 .nome{
@@ -106,6 +107,7 @@ body{
 }
 .profissao{
     margin:0em;
+    margin-top: 3em;
     padding: 0em;
     font-family: 'Aubrey', cursive;
     font-size: 1.1em;
@@ -119,7 +121,7 @@ body{
 }
 .redes img{
     margin: 0.5em 1em;
-}
+} 
 .baixar{
     height: 5em;
     width: 10em;
@@ -247,6 +249,7 @@ body{
 }
 .progress {
     margin-bottom:10px;
+    height: 1.8em;
 }
 
 .divCompetenciasAdm {
@@ -271,4 +274,13 @@ body{
 }   
 .footer{
     clear: both;
+}
+
+.bg-laranja{
+    background-color: darkorange;
+} 
+
+/* Tags html*/
+hr{
+    margin: 0em;
 }

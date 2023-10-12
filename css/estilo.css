@@ -63,7 +63,7 @@ body{
 }
 .navegacao li{
     font-family: 'Aubrey', cursive;
-    font-size: 1.30em;
+    font-size: 1.60em;
     font-style:italic;
     font-weight: 200;
     display: inline;
@@ -95,8 +95,9 @@ body{
 }
 
 .avatar img{
-    width: 150px;
-    margin-top: 5em;
+    height: 120px;
+    width: 114px;
+    margin-top: 4em;
     margin-bottom: 0em;
 }
 .nome{

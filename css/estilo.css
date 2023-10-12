@@ -251,12 +251,15 @@ body{
 .progress {
     margin-bottom:10px;
     height: 1.8em;
+    background-color: #c3f8eb;
+    color:#ffff ;
+    font-weight: 700;
 }
 
-.divCompetenciasAdm {
+.divCompetenciasCont {
     background-color: rgb(255, 255, 255);
     float: left;
-    width: 410px;
+    width: 400px;
     height: auto;
     margin: 0;
     margin-top:2.703em;
@@ -266,11 +269,12 @@ body{
 .divCompetenciasIdi {
     background-color: rgb(255, 255, 255);
     float: right;
-    width: 400px;
+    width: 370px;
     height: auto;
     margin: 0;
     margin-top: 2.703em;
     margin-left: 2.5em;
+    margin-right:2.5em;
     padding-left: 10 
 }   
 .footer{

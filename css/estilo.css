@@ -251,9 +251,12 @@ body{
 .progress {
     margin-bottom:10px;
     height: 1.8em;
+    background-color: #c3f8eb;
+    color:#ffff ;
+    font-weight: 700;
 }
 
-.divCompetenciasAdm {
+.divCompetenciasCont {
     background-color: rgb(255, 255, 255);
     float: left;
     width: 400px;

@@ -256,7 +256,7 @@ body{
 .divCompetenciasAdm {
     background-color: rgb(255, 255, 255);
     float: left;
-    width: 410px;
+    width: 400px;
     height: auto;
     margin: 0;
     margin-top:2.703em;
@@ -266,11 +266,12 @@ body{
 .divCompetenciasIdi {
     background-color: rgb(255, 255, 255);
     float: right;
-    width: 400px;
+    width: 370px;
     height: auto;
     margin: 0;
     margin-top: 2.703em;
     margin-left: 2.5em;
+    margin-right:2.5em;
     padding-left: 10 
 }   
 .footer{
